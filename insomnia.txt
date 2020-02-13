@@ -1,0 +1,7 @@
+Colocar no insomnia
+> No Environment/Manage Environments
+
+{
+  "base_url": "http://localhost:3000",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlMzBhMzhiM2ZiNGIyMDJmODg0ZDViMSIsImlhdCI6MTU4MDUxNjg1NiwiZXhwIjoxNTgwNjAzMjU2fQ.w7oeUDUAvl4Oa1OSCvU73Fa4AgQ_95e4Us9rYFXxODw"
+}
